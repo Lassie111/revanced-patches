@@ -1,3 +1,15 @@
+## [5.43.1-dev.1](https://github.com/Lassie111/revanced-patches/compare/v5.43.0...v5.43.1-dev.1) (2025-10-22)
+
+
+### Bug Fixes
+
+* **Google Photos - Spoof features:** Add support for Pixel 10 devices ([af2c691](https://github.com/Lassie111/revanced-patches/commit/af2c691d205cbb110e77bc93a5c619c4cb69845f))
+* **X / Twitter - Change link sharing domain:** Resolve duplicate patch option ([#6119](https://github.com/Lassie111/revanced-patches/issues/6119)) ([7563990](https://github.com/Lassie111/revanced-patches/commit/75639907502382f63fa127a886362d4a4573e6e3))
+* **X / Twitter - Change link sharing domain:** Use bytecode patching to resolve patching with Manager ([#6125](https://github.com/Lassie111/revanced-patches/issues/6125)) ([0af8c8a](https://github.com/Lassie111/revanced-patches/commit/0af8c8a766ae4ba6926404d59da2f14d649f91f7))
+* **X / Twitter:** Do not crash Manager when clicking on domain patch option ([2a1e318](https://github.com/Lassie111/revanced-patches/commit/2a1e31860f22f537d51b40a5b71d9ad9d538789e))
+* **YouTube - Hide layout components:** Hide new kind of community post ([#6146](https://github.com/Lassie111/revanced-patches/issues/6146)) ([cfd244b](https://github.com/Lassie111/revanced-patches/commit/cfd244b4088daacd2788ec38357ac521e4b296d5))
+* **YouTube Music:** Resolve patching 7.29 target ([2e4c6fd](https://github.com/Lassie111/revanced-patches/commit/2e4c6fdcadeef45a80733e374421d52e5e8af910))
+
 ## [5.43.2-dev.3](https://github.com/ReVanced/revanced-patches/compare/v5.43.2-dev.2...v5.43.2-dev.3) (2025-10-19)
 
 
